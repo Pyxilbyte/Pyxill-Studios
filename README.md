@@ -9,6 +9,7 @@ The official home of Pyxill Studios and all current game projects.
 - Vertex Survival
 - Epic Sound Effects
 - Capsule Shooter 3D
+- Drive Anywhere
 
 Each game has its own folder and page, producing URLs such as
 `/Pyxill-Studios-Website/Infinite-Horizon/`.
